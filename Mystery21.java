@@ -1,4 +1,4 @@
-public class Mysery21 {
+public class Mystery21 {
     public static int x = 3; // changed
     public static void main (String [] args) {
         int[] y = {1, 2, 3};
